@@ -1,7 +1,7 @@
 ## Drum Machine 
 The drum machine simulator, where you can create, save and record your drum sound patterns.
 
-![Main](./Readme-images/main.png)
+![Main](./readme-images/main.png)
 
 ## Installation and Setup Instructions 
 Clone down this repository. You will need node and npm installed globally on your machine.
